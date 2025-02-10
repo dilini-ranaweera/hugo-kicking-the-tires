@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dilini Example Hugo Site</title>
-    <link>http://localhost:62598/</link>
+    <link>http://localhost:63258/</link>
     <description>Recent content on Dilini Example Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 16:47:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:62598/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 17:11:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:63258/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:63258/resume/</link>
+      <pubDate>Mon, 10 Feb 2025 17:11:14 -0500</pubDate>
+      <guid>http://localhost:63258/resume/</guid>
+      <description>&lt;p&gt;This is my resume.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>http://localhost:62598/about/</link>
+      <link>http://localhost:63258/about/</link>
       <pubDate>Mon, 10 Feb 2025 16:47:33 -0500</pubDate>
-      <guid>http://localhost:62598/about/</guid>
+      <guid>http://localhost:63258/about/</guid>
       <description>&lt;p&gt;This is my About Page.&lt;/p&gt;</description>
     </item>
   </channel>
